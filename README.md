@@ -1,4 +1,17 @@
 # llSPS-INT-2152-Predicting-Life-Expectancy-using-Machine-Learning
+Node red ui link
+https://node-red-kwyqu.mybluemix.net/ui/#!/0?socketid=2v6Hs84tYz-Q6gn_AABE
+
+Project vedio demonstration link
+https://drive.google.com/file/d/11Y7KRP6podchUtJZYNHkdqU1_WMpa5Cx/view?usp=sharing
+
+Project report link
+https://drive.google.com/file/d/1IEUnsru8bAVPOqlYuh2l0iMZn7IF_d57/view?usp=sharing
+
+
+
+
+
 project scope report
 Predicting Life Expectancy Using Machine Learning
 Project Summary- 
